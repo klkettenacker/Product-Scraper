@@ -1,12 +1,14 @@
 import scrapy
 import requests
 from scrapy_splash import SplashRequest
+from productscraper.items import ProductscraperItem 
 
 class MouseSpider(scrapy.Spider):
     name = 'mouse'
+    allowed_domains = ['www.lazada.com.ph']
     start_urls = ['https://www.lazada.com.ph/shop-gaming-mice/logitech/']
 
-    script = '''
+    splash_script = '''
         function main(splash, args)
             assert(splash:go(args.url))
             assert(splash:wait(3))
@@ -18,19 +20,17 @@ class MouseSpider(scrapy.Spider):
     '''
 
     def start_requests(self):
-        yield SplashRequest(url='https://www.lazada.com.ph/shop-gaming-mice/logitech/', callback=self.parse, endpoint='execute', args={'lua_source': self.script})
+        yield SplashRequest(url='https://www.lazada.com.ph/shop-gaming-mice/logitech/', callback=self.parse, endpoint='execute', args={'lua_source': self.splash_script})
  
     def parse(self, response):
-        print(response.body)
-
+        
+        #Product is the div of each product 'card' in results page
         products = response.xpath("//div[contains(@data-qa-locator, 'product-item')]/div[contains(@class, 'c3e8SH c2mzns')]")
 
         for product in products:
-            yield {
-                'product-name': product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c16H9d')]/a/text()").get(),
-                'product-link': product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c16H9d')]/a/@href").get(),
-                'product-price': product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c3gUW0')]/span/text()").get(),
-                'product-image': product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'cRjKsc')]/a/img/@src").get()
-                
-            }
-
+            item = ProductscraperItem()
+            item['name'] = product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c16H9d')]/a/text()").get()
+            item['url'] = product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c16H9d')]/a/@href").get()
+            item['price'] = product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'c3gUW0')]/span/text()").get()
+            item['img_src'] = product.xpath("./div[contains(@class, 'c5TXIP')]//div[contains(@class, 'cRjKsc')]/a/img/@src").get()
+            yield item
