@@ -12,6 +12,8 @@ class MouseSpider(scrapy.Spider):
         function main(splash, args)
             assert(splash:go(args.url))
             assert(splash:wait(3))
+            assert(splash:set_viewport_full())
+            assert(splash:wait(3))
             return {
                 html = splash:html(),
                 }

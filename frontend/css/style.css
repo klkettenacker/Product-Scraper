@@ -1,0 +1,33 @@
+
+
+ul#scraped_data {
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat(auto-fit, 200px);
+
+}
+
+li {
+    display: inline-block;
+}
+
+div.product-card {
+    text-overflow: ellipsis;
+}
+
+.product-name {
+    width: 200px;
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.product-price {
+    font-weight:600;
+    padding-left: .2em;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}

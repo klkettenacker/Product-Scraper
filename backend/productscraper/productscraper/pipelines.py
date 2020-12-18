@@ -22,6 +22,6 @@ class ProductscraperPipeline:
 
 
         def process_item(self, item, spider):
-            print("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHH")
+            
             self.collection.insert(dict(item))
             return item
