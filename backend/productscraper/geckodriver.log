@@ -1,0 +1,711 @@
+1609953247801	geckodriver	INFO	Listening on 127.0.0.1:51435
+1609953250825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBl5Gpe"
+*** You are running in headless mode.
+1609953321850	geckodriver	INFO	Listening on 127.0.0.1:51505
+1609953324904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile81ua1w"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953326170	Marionette	INFO	Listening on port 51515
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953326433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609953326440	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 819: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+\Local\\Temp\\rust_mozprofilebXyqIM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953351796	Marionette	INFO	Listening on port 51577
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953352283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609953352290	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609953355460	Marionette	INFO	Stopped listening on port 51577
+[Parent 2396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609953642980	geckodriver	INFO	Listening on 127.0.0.1:51732
+1609953646009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileHZzXMQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953647089	Marionette	INFO	Listening on port 51740
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953647550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609953647559	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609953650670	Marionette	INFO	Stopped listening on port 51740
+[Parent 13320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1609953990542	geckodriver	INFO	Listening on 127.0.0.1:52025
+1609953993572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileZmwy1T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953994663	Marionette	INFO	Listening on port 52035
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609953995108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609953995115	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609953999443	Marionette	INFO	Stopped listening on port 52035
+1609954153738	geckodriver	INFO	Listening on 127.0.0.1:52231
+1609954156767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileQDqDqn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954157862	Marionette	INFO	Listening on port 52239
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954158309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954158317	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954162355	Marionette	INFO	Stopped listening on port 52239
+1609954344620	geckodriver	INFO	Listening on 127.0.0.1:53427
+1609954347643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilehNGVmk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954348706	Marionette	INFO	Listening on port 53461
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954349172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954349180	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954353376	Marionette	INFO	Stopped listening on port 53461
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 11824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1609954496666	geckodriver	INFO	Listening on 127.0.0.1:54721
+1609954499699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileySI1EB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954500821	Marionette	INFO	Listening on port 54788
+1609954501228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954501236	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54921
+1609954515929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileldA4Rf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954517084	Marionette	INFO	Listening on port 54958
+1609954517454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954517463	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954520659	Marionette	INFO	Stopped listening on port 54958
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609954557531	geckodriver	INFO	Listening on 127.0.0.1:55392
+1609954560566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilelQTYRW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954561720	Marionette	INFO	Listening on port 55446
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954562094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954562102	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55726
+1609954589229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBHtwBZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954590329	Marionette	INFO	Listening on port 55758
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954590772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954590779	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954594022	Marionette	INFO	Stopped listening on port 55758
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609954694970	geckodriver	INFO	Listening on 127.0.0.1:56670
+1609954697999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilecnRXOF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954699112	Marionette	INFO	Listening on port 56691
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954699547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954699555	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57168
+1609954752251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileA09F43"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954753418	Marionette	INFO	Listening on port 57194
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954753800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954753806	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954756889	Marionette	INFO	Stopped listening on port 57194
+1609954775766	geckodriver	INFO	Listening on 127.0.0.1:57423
+1609954778816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileE2dUa1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954779925	Marionette	INFO	Listening on port 57454
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954780342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954780350	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954783399	Marionette	INFO	Stopped listening on port 57454
+1609954879694	geckodriver	INFO	Listening on 127.0.0.1:58223
+1609954882726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileMeLMqZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954883907	Marionette	INFO	Listening on port 58246
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609954884280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609954884287	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609954887473	Marionette	INFO	Stopped listening on port 58246
+1609955141247	geckodriver	INFO	Listening on 127.0.0.1:59634
+1609955144282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile7gc0wW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955145390	Marionette	INFO	Listening on port 59651
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955145806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955145813	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955148871	Marionette	INFO	Stopped listening on port 59651
+[Parent 19284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1609955248290	geckodriver	INFO	Listening on 127.0.0.1:60227
+1609955251326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilewWEtYz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955252455	Marionette	INFO	Listening on port 60252
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955252854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955252861	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955256082	Marionette	INFO	Stopped listening on port 60252
+1609955485116	geckodriver	INFO	Listening on 127.0.0.1:61414
+1609955488172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBdlgaS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955489246	Marionette	INFO	Listening on port 61435
+1609955489703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955489711	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955492997	Marionette	INFO	Stopped listening on port 61435
+1609955582993	geckodriver	INFO	Listening on 127.0.0.1:61963
+1609955586019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileKAtbeQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955587221	Marionette	INFO	Listening on port 61975
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955587563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955587571	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62199
+1609955629648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNjQ0yW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955630746	Marionette	INFO	Listening on port 62220
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955631178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955631185	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955634203	Marionette	INFO	Stopped listening on port 62220
+1609955723589	geckodriver	INFO	Listening on 127.0.0.1:62747
+1609955726622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevCCLyD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955727774	Marionette	INFO	Listening on port 62762
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955728152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955728159	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 819: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+\Local\\Temp\\rust_mozprofileocZP5N"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955748232	Marionette	INFO	Listening on port 62919
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955748667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955748675	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955751709	Marionette	INFO	Stopped listening on port 62919
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+[Parent 18564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1609955895071	geckodriver	INFO	Listening on 127.0.0.1:63676
+1609955898100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3nBL12"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955899264	Marionette	INFO	Listening on port 63692
+1609955899631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955899639	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955902806	Marionette	INFO	Stopped listening on port 63692
+1609955942982	geckodriver	INFO	Listening on 127.0.0.1:63995
+1609955946021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileuer1CJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955947179	Marionette	INFO	Listening on port 64011
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609955947565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609955947572	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609955950478	Marionette	INFO	Stopped listening on port 64011
+[Parent 21132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609956043164	geckodriver	INFO	Listening on 127.0.0.1:64586
+1609956046192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6IOvM9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956047328	Marionette	INFO	Listening on port 64611
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956047733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956047740	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956050697	Marionette	INFO	Stopped listening on port 64611
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956346045	geckodriver	INFO	Listening on 127.0.0.1:49601
+1609956349086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile6wZRP4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956350261	Marionette	INFO	Listening on port 49629
+1609956350614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956350621	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956353673	Marionette	INFO	Stopped listening on port 49629
+[Parent 3652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1609956372614	geckodriver	INFO	Listening on 127.0.0.1:49836
+1609956375639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5NgwAH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956376772	Marionette	INFO	Listening on port 49861
+1609956377178	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956377188	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956380331	Marionette	INFO	Stopped listening on port 49861
+1609956659433	geckodriver	INFO	Listening on 127.0.0.1:51185
+1609956662490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileibFMxk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956663672	Marionette	INFO	Listening on port 51208
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956664035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956664043	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956667058	Marionette	INFO	Stopped listening on port 51208
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609956706061	geckodriver	INFO	Listening on 127.0.0.1:51464
+1609956709088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilezbqjsJ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956710169	Marionette	INFO	Listening on port 51486
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956710631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956710638	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956713568	Marionette	INFO	Stopped listening on port 51486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609956759842	geckodriver	INFO	Listening on 127.0.0.1:51798
+1609956762878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile4Wzy1s"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956764018	Marionette	INFO	Listening on port 51815
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956764406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956764413	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956767412	Marionette	INFO	Stopped listening on port 51815
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609956840949	geckodriver	INFO	Listening on 127.0.0.1:52224
+1609956843982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBt4NnL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956845138	Marionette	INFO	Listening on port 52242
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956845511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956845518	Marionette	ERROR	[17] No reply from Marionette:Register
+1609956853105	geckodriver	INFO	Listening on 127.0.0.1:52327
+1609956856146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiledwKOwX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956857267	Marionette	INFO	Listening on port 52343
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609956857695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609956857702	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609956860744	Marionette	INFO	Stopped listening on port 52343
+1609957006166	geckodriver	INFO	Listening on 127.0.0.1:53050
+1609957009210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilesisNBx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609957010322	Marionette	INFO	Listening on port 53069
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609957010734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609957010741	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 8: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1609957013747	Marionette	INFO	Stopped listening on port 53069

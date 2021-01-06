@@ -1,12 +1,13 @@
 import scrapy
-import requests
-from scrapy_splash import SplashRequest
 from productscraper.items import ProductscraperItem 
+from scrapy_selenium import SeleniumRequest
 
 class MouseSpider(scrapy.Spider):
     name = 'mouse'
     allowed_domains = ['www.lazada.com.ph']
     start_urls = ['https://www.lazada.com.ph/shop-gaming-mice/logitech/']
+
+    url = 'https://www.lazada.com.ph/shop-gaming-mice/logitech/'
 
     splash_script = '''
         function main(splash, args)
@@ -22,10 +23,14 @@ class MouseSpider(scrapy.Spider):
     '''
 
     def start_requests(self):
-        yield SplashRequest(url='https://www.lazada.com.ph/shop-gaming-mice/logitech/', callback=self.parse, endpoint='execute', args={'lua_source': self.splash_script})
+
+        yield SeleniumRequest(url='https://www.lazada.com.ph/shop-gaming-mice/logitech/', callback=self.parse, script='window.scrollTo(0, document.body.scrollHeight);')
+        # yield SplashRequest(url='https://www.lazada.com.ph/shop-gaming-mice/logitech/', callback=self.parse, endpoint='execute', args={'lua_source': self.splash_script})
  
     def parse(self, response):
         
+        print(response)
+
         #Product is the div of each product 'card' in results page
         products = response.xpath("//div[contains(@data-qa-locator, 'product-item')]/div[contains(@class, 'c3e8SH c2mzns')]")
 
